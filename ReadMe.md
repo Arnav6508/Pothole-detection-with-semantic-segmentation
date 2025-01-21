@@ -47,7 +47,7 @@ Integration with traffic management systems to identify and prioritize the repai
 Enhancing autonomous navigation by providing vehicles with real-time road condition data, enabling safer and smoother travel.
 
 
-<video width="640" controls><source src="input_video.mp4" type="video/mp4"></video>
+<img src="runs/val_batch1_pred.jpg" alt="val image">
 
 
 
