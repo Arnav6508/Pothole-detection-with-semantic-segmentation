@@ -1,0 +1,6 @@
+path: /Users/arnavgupta/Desktop/Semantic segmnetation/data
+train: images/train 
+val: images/val  
+
+nc: 3
+names: ['Manhole', 'Pothole', 'Unmarked Bump']
